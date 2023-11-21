@@ -38,12 +38,15 @@ abstract: 'The characterization of benthic habitats is essential for aquatic eco
 # summary:
 
 tags:
-- Source Themes
+- side-scan sonar
+- Humminbird
+- aquatic substrate
+- remote sensing
 featured: true
 
 links:
-# - name: URL
-#   url: https://onlinelibrary.wiley.com/doi/10.1029/2022EA002469
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/10.1029/2022EA002469
 url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022EA002469
 url_code: 'https://doi.org/10.5281/zenodo.6604785'
 # url_dataset: '#'
