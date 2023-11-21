@@ -37,6 +37,10 @@ abstract: 'The characterization of benthic habitats is essential for aquatic eco
 # Summary. An optional shortened abstract.
 # summary:
 
+tags:
+- Source Themes
+featured: false
+
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/10.1029/2022EA002469
