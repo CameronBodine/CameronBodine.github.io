@@ -104,7 +104,7 @@ social:
     display:
       header: true
   - icon: orcid
-    icon_pac: academicons
+    icon_pac: ai
     link: https://orcid.org/0000-0002-1623-3920
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
