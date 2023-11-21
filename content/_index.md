@@ -69,7 +69,7 @@ sections:
           location: Flagstaff, AZ
           date_start: '2019-08-01'
           date_end: ''
-          description: |2-
+          description:
               * Develop open-source software [PINGMapper](https://cameronbodine.github.io/PINGMapper/) and reproducible workflows for processing big datasets from recreation-grade sonar instruments.
               * Train and evaluate deep learning models for substrate segmentation and classification from sonar imagery.
               * Identify suitable spawning reaches for the threatened Gulf Sturgeon in the Pearl and Pascagoula systems in Mississippi, USA.
