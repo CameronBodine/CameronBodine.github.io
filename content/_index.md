@@ -62,19 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Graduate Research Assistant
+          company: Northern Arizona University
+          company_url: 'https://nau.edu/'
+          company_logo: 'NAU-logo.png'
+          location: Flagstaff, AZ
+          date_start: '2019-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              * Develop open-source software [PINGMapper](https://cameronbodine.github.io/PINGMapper/) and reproducible workflows for processing big datasets from recreation-grade sonar instruments.
+              * Train and evaluate deep learning models for substrate segmentation and classification from sonar imagery.
+              * Identify suitable spawning reaches for the threatened Gulf Sturgeon in the Pearl and Pascagoula systems in Mississippi, USA.
+              * Author peer-reviewed manuscripts and present at national and regional conferences.
+              * Coordinate field campaigns with research partners.
+              * Provide bug patches and enhanced functionality based on end-users input.
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
