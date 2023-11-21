@@ -65,7 +65,7 @@ sections:
         - title: Graduate Research Assistant
           company: Northern Arizona University
           company_url: 'https://nau.edu/'
-          company_logo: NAU-logo
+          company_logo: nau-logo
           location: Flagstaff, AZ
           date_start: '2019-08-01'
           date_end: ''
