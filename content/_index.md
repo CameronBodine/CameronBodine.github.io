@@ -249,13 +249,14 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks & Posters
       filters:
         folders:
           - event
     design:
       columns: '2'
-      view: compact
+      # view: compact
+      view: citation
   - block: tag_cloud
     content:
       title: Popular Topics
