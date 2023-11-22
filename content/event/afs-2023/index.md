@@ -39,7 +39,7 @@ featured: false
 
 image:
   caption: 'Image credit: Bodine et al. (2023)'
-  focal_point: ''
+  # focal_point: 'Right'
 
 links:
   # - icon: twitter
