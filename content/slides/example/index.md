@@ -1,38 +1,169 @@
 ---
-title: PING-Mapper: Reproducible Substrate Mapping with Recreation-grade Sonar Systems
-summary: Presentation given at 2023 American Fisheries Society Annual Meeting in Grand Rapids, MI.
-authors: 
-- Cameron S. Bodine
-- Daniel Buscombe
-- Adam J. Kaeser
-tags:
-- side-scan sonar
-- Humminbird
-- aquatic substrate
-- remote sensing
+title: Slides
+summary: An introduction to using Hugo Blox Builder's Slides feature.
+authors: []
+tags: []
 categories: []
 date: '2019-02-05T00:00:00Z'
-# slides:
-#   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-#   theme: black
-#   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-#   #   Light style: github.Dark style: dracula (default).
-#   highlight_style: dracula
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: black
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
+---
 
-links:
-# - name: URL
-#   url: https://onlinelibrary.wiley.com/doi/10.1029/2022EA002469
-# url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022EA002469
-# url_code: 'https://doi.org/10.5281/zenodo.6604785'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: 'https://github.com/CameronBodine/PINGMapper'
-# url_slides: ''
-# url_source: '#'
-url_video: 'https://youtu.be/AlebxkKn83c'
+# Create slides in Markdown with Hugo Blox Builder
 
-abstract: 'Predictive understanding of the variation and distribution of substrates at large spatial extents in aquatic systems is severely lacking. This hampers efforts to numerically predict the occurrence and distribution of specific benthic habitats important to aquatic species, which must be observed in the field. Existing survey methods are limited in scale, require heavy and technically sophisticated survey equipment, or are prohibitively expensive for surveying and mapping. Recreation-grade side scan sonar (SSS) instruments, or fishfinders, have demonstrated their unparalleled value in a lightweight and easily-to-deploy system to image benthic habitats efficiently at the landscape-level. Existing methods for generating geospatial datasets from these sonar systems require a high-level of interaction from the user and are primarily closed-source, limiting opportunities for community-driven enhancements. We introduce PING-Mapper, an open-source and freely available Python-based software for generating geospatial benthic datasets from recreation-grade SSS systems. PING-Mapper is an end-to-end framework for surveying and mapping aquatic systems at large spatial extents reproducibly, with minimal intervention from the user. Version 1.0 of the software (Summer 2022) decodes sonar recordings from any existing Humminbird® side imaging system, export plots of sonar intensities and sensor-derived bedpicks and generates georeferenced mosaics of geometrically corrected sonar imagery. Version 2.0 of the software, to be released Summer 2023, extends PING-Mapper functionality by incorporating deep neural network models that automatically locate and mask sonar shadows, calculate independent bedpicks from both side scan channels, and classify substrates at the pixel level. The widespread availability of substrate information in aquatic systems will inform fish sampling efforts, habitat suitability models, and planning and monitoring habitat restoration.'
+[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
 
 ---
 
+## Features
 
+- Efficiently write slides in Markdown
+- 3-in-1: Create, Present, and Publish your slides
+- Supports speaker notes
+- Mobile friendly slides
+
+---
+
+## Controls
+
+- Next: `Right Arrow` or `Space`
+- Previous: `Left Arrow`
+- Start: `Home`
+- Finish: `End`
+- Overview: `Esc`
+- Speaker notes: `S`
+- Fullscreen: `F`
+- Zoom: `Alt + Click`
+- [PDF Export](https://revealjs.com/pdf-export/)
+
+---
+
+## Code Highlighting
+
+Inline code: `variable`
+
+Code block:
+
+```python
+porridge = "blueberry"
+if porridge == "blueberry":
+    print("Eating...")
+```
+
+---
+
+## Math
+
+In-line math: $x + y = z$
+
+Block math:
+
+$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$
+
+---
+
+## Fragments
+
+Make content appear incrementally
+
+```
+{{%/* fragment */%}} One {{%/* /fragment */%}}
+{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
+{{%/* fragment */%}} Three {{%/* /fragment */%}}
+```
+
+Press `Space` to play!
+
+{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+
+---
+
+A fragment can accept two optional parameters:
+
+- `class`: use a custom style (requires definition in custom CSS)
+- `weight`: sets the order in which a fragment appears
+
+---
+
+## Speaker Notes
+
+Add speaker notes to your presentation
+
+```markdown
+{{%/* speaker_note */%}}
+
+- Only the speaker can read these notes
+- Press `S` key to view
+  {{%/* /speaker_note */%}}
+```
+
+Press the `S` key to view the speaker notes!
+
+{{< speaker_note >}}
+
+- Only the speaker can read these notes
+- Press `S` key to view
+  {{< /speaker_note >}}
+
+---
+
+## Themes
+
+- black: Black background, white text, blue links (default)
+- white: White background, black text, blue links
+- league: Gray background, white text, blue links
+- beige: Beige background, dark text, brown links
+- sky: Blue background, thin dark text, blue links
+
+---
+
+- night: Black background, thick white text, orange links
+- serif: Cappuccino background, gray text, brown links
+- simple: White background, black text, blue links
+- solarized: Cream-colored background, dark green text, blue links
+
+---
+
+{{< slide background-image="/media/boards.jpg" >}}
+
+## Custom Slide
+
+Customize the slide style and background
+
+```markdown
+{{</* slide background-image="/media/boards.jpg" */>}}
+{{</* slide background-color="#0000FF" */>}}
+{{</* slide class="my-style" */>}}
+```
+
+---
+
+## Custom CSS Example
+
+Let's make headers navy colored.
+
+Create `assets/css/reveal_custom.css` with:
+
+```css
+.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+```
+
+---
+
+# Questions?
+
+[Ask](https://discord.gg/z8wNYzb)
+
+[Documentation](https://docs.hugoblox.com/content/slides/)
