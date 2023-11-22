@@ -4,7 +4,7 @@ title: Reproducible Substrate Mapping with Recreation-grade Sonar Systems
 event: American Fisheries Society Annual Meeting
 # event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+# location: Hugo Blox Builder HQ
 address:
   # street: 450 Serra Mall
   city: Grand Rapids
