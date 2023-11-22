@@ -37,9 +37,9 @@ tags:
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image:
+  caption: 'Image credit: Bodine et al. (2023)'
+  focal_point: ''
 
 links:
   # - icon: twitter
