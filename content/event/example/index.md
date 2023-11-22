@@ -66,7 +66,6 @@ url_video: 'https://youtu.be/AlebxkKn83c?si=7Z_xedpzoOFw7l0Z'
 projects:
   - ping-mapper
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AlebxkKn83c?si=Mg_PVwRHhrWo2dQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 
 <!-- {{% callout note %}}
