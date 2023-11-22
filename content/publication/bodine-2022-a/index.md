@@ -4,8 +4,8 @@ title: 'PING‐Mapper: Open‐Source Software for Automated Benthic Imaging and 
 authors:
 - Cameron S. Bodine
 - Daniel Buscombe
-- R. J. Best
-- J. A. Redner
+- Rebecca J. Best
+- Jennlyn A. Redner
 - Adam J. Kaeser
 date: '2022-09-01'
 publishDate: '2023-11-21T22:05:04.214247Z'

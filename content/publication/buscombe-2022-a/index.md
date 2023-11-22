@@ -1,10 +1,10 @@
 ---
 title: Human‐in‐the‐Loop Segmentation of Earth Surface Imagery
 authors:
-- Daniel Buscombe
+- D. Buscombe
 - E. B. Goldstein
 - C. R. Sherwood
-- Cameron S. Bodine
+- C. S. Bodine
 - J. A. Brown
 - J. Favela
 - S. Fitzpatrick
