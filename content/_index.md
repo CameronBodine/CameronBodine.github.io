@@ -99,7 +99,22 @@ sections:
           date_start: '2014-01-01'
           date_end: '2014-09-01'
           description: |2-
-              * Test
+              * Provide technical assistance on [Cooperative Land Cover](https://myfwc.com/research/gis/wildlife/cooperative-land-cover/) project.
+              * Develop custom Python workflows for batch processing and management of big datasets.
+              * Utilize ArcGIS 10.x to classify medium resolution imagery to edit and update landcover datasets.
+              * Enforce vector topology and domains for quality assurance.
+        - title: Teaching Assistant
+          company: Czech University of Life Sciences
+          company_url: 'https://www.czu.cz/en'
+          company_logo: czu-logo
+          location: Prague, Czech Republic
+          date_start: '2013-02-01'
+          date_end: '2013-12-01'
+          description: |2-
+              * Courses: Geographic Information Systems I & II (Graduate Level).
+              * Co-develop course lectures with instructor for ESL students.
+              * Lead skill-based lab for students with varying technical experience.
+              * Respond to student questions and provide one-on-one tutoring.
     design:
       columns: '2'
   # - block: accomplishments
