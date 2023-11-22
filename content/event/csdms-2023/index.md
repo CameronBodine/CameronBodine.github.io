@@ -19,7 +19,7 @@ abstract: 'Scientific knowledge of the variation and distribution of substrates 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-05-16'
 date_end: '2023-05-18'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-11-22'
