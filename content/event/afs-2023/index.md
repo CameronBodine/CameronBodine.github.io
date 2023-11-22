@@ -1,5 +1,5 @@
 ---
-title: Reproducible Substrate Mapping with Recreation-grade Sonar Systems
+title: Reproducible Substrate Mapping with Recreation-grade Sonar Systems [Conference Session]
 
 event: American Fisheries Society Annual Meeting
 # event_url: https://example.org
@@ -35,7 +35,7 @@ tags:
 - remote sensing
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: Bodine et al. (2023)'
