@@ -12,4 +12,16 @@ publication: '*Zenodo*'
 doi: 10.5281/zenodo.10093642
 projects:
 - ping-mapper
+tags:
+- side-scan sonar
+- Humminbird
+- aquatic substrate
+- remote sensing
+- segmentation
+- model
+- deep learning
+- machine learning
+
+abstract: 'These are the deep learning segmentation models that supplement a forthcoming manuscript on automated substrate mapping.'
 ---
+

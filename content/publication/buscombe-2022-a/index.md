@@ -44,12 +44,9 @@ tags:
 - Earth surface processes
 - data labeling
 - gridded data
-- human
-- in
-- loop machine learning
+- human-in-the-loop machine learning
 - machine learning
 - segmentation
-- the
 links:
 - name: URL
   url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA002085

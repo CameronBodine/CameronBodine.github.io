@@ -13,5 +13,8 @@ projects:
 - ping-mapper
 
 tags:
-- chp 2 - PING Mapper
+- side-scan sonar
+- Humminbird
+- aquatic substrate
+- remote sensing
 ---
