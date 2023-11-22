@@ -76,7 +76,6 @@ sections:
               * Author peer-reviewed manuscripts and present at national and regional conferences.
               * Coordinate field campaigns with research partners.
               * Provide bug patches and enhanced functionality based on end-users input.
-
       items:
         - title: Biological Scientist II
         company: Florida Fish and Wildlife Conservation Commission
@@ -93,6 +92,16 @@ sections:
             * Serve as agency point of contact for riverine side-scan sonar inquiries and requests.
             * Prepare technical documents and present research at agency, regional, and national meetings.
             * Formulate FWC boating policy as Watercraft Safety Advisory Board (WSAB) advisor.
+
+      items:
+        - title: Research Associate
+        company: Florida Fish and Wildlife Conservation Commission
+        company_url: 'https://myfwc.com/'
+        company_logo: fwc-logo
+        location: Tallahassee, FL
+        date_start: '2014-01-01'
+        date_end: '2019-05-01'
+        description: |2-
 
     design:
       columns: '2'
