@@ -77,29 +77,29 @@ sections:
               * Coordinate field campaigns with research partners.
               * Provide bug patches and enhanced functionality based on end-users input.
         - title: Biological Scientist II
-        company: Florida Fish and Wildlife Conservation Commission
-        company_url: 'https://myfwc.com/'
-        company_logo: fwc-logo
-        location: Tallahassee, FL
-        date_start: '2014-09-01'
-        date_end: '2019-05-01'
-        description: |2-
-            * Interpret fine-scale side-scan sonar imagery and classify river substrates.
-            * Plan and conduct riverine field campaigns involving operation of recreation-grade side-scan sonar, GPS, motorized/non-motorized vessels, and trailering.
-            * Design and maintain ArcGIS REST Services and maps for distribution of [river substrate data](https://myfwc.maps.arcgis.com/apps/dashboards/3a47214c65a24b4aa795d19a9dbef92f\#/403cef8a07254e6b8d9a0672aa0574d6).
-            * Develop Python scripts for batch processing, data management, and computations.
-            * Serve as agency point of contact for riverine side-scan sonar inquiries and requests.
-            * Prepare technical documents and present research at agency, regional, and national meetings.
-            * Formulate FWC boating policy as Watercraft Safety Advisory Board (WSAB) advisor.
+          company: Florida Fish and Wildlife Conservation Commission
+          company_url: 'https://myfwc.com/'
+          company_logo: fwc-logo
+          location: Tallahassee, FL
+          date_start: '2014-09-01'
+          date_end: '2019-05-01'
+          description: |2-
+              * Interpret fine-scale side-scan sonar imagery and classify river substrates.
+              * Plan and conduct riverine field campaigns involving operation of recreation-grade side-scan sonar, GPS, motorized/non-motorized vessels, and trailering.
+              * Design and maintain ArcGIS REST Services and maps for distribution of [river substrate data](https://myfwc.maps.arcgis.com/apps/dashboards/3a47214c65a24b4aa795d19a9dbef92f\#/403cef8a07254e6b8d9a0672aa0574d6).
+              * Develop Python scripts for batch processing, data management, and computations.
+              * Serve as agency point of contact for riverine side-scan sonar inquiries and requests.
+              * Prepare technical documents and present research at agency, regional, and national meetings.
+              * Formulate FWC boating policy as Watercraft Safety Advisory Board (WSAB) advisor.
         - title: Research Associate
-        company: Florida Fish and Wildlife Conservation Commission
-        company_url: 'https://myfwc.com/'
-        company_logo: fwc-logo
-        location: Tallahassee, FL
-        date_start: '2014-01-01'
-        date_end: '2014-09-01'
-        description: |2-
-            * Test
+          company: Florida Fish and Wildlife Conservation Commission
+          company_url: 'https://myfwc.com/'
+          company_logo: fwc-logo
+          location: Tallahassee, FL
+          date_start: '2014-01-01'
+          date_end: '2014-09-01'
+          description: |2-
+              * Test
     design:
       columns: '2'
   # - block: accomplishments
