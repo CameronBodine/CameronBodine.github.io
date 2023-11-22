@@ -9,4 +9,6 @@ publication_types:
 - manuscript
 publication: '*Zenodo*'
 doi: 10.5281/zenodo.10119320
+projects:
+- ping-mapper
 ---

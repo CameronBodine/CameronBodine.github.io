@@ -9,6 +9,9 @@ publication_types:
 - manuscript
 publication: '*Zenodo*'
 doi: 10.5281/zenodo.6604785
+projects:
+- ping-mapper
+
 tags:
 - chp 2 - PING Mapper
 ---
