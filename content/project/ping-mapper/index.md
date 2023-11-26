@@ -6,6 +6,7 @@ tags:
 - Humminbird
 - aquatic substrate
 - remote sensing
+featured: true
 date: "2023-11-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
