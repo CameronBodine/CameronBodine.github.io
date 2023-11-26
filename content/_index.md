@@ -186,6 +186,17 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Projects
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: portfolio
     id: projects
     content:
@@ -193,6 +204,7 @@ sections:
       filters:
         folders:
           - project
+        exclude_featured: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       # default_button_index: 0
       # # Filter toolbar (optional).
