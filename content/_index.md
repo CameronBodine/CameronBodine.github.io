@@ -197,7 +197,7 @@ sections:
     design:
       columns: '2'
       view: showcase
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Projects
