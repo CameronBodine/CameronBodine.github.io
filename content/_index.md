@@ -221,7 +221,7 @@ sections:
       #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -247,10 +247,10 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
@@ -261,7 +261,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks & Posters
+      title: Recent Talks & Posters
       filters:
         folders:
           - event

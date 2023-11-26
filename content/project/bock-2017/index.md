@@ -1,5 +1,5 @@
 ---
-title: 'Landscape-level in-stream habitat mapping: “Side Scan Sonar” final report'
+title: 'Landscape-level in-stream habitat mapping: “Side Scan Sonar”'
 authors:
 - Jennifer A. Bock
 - Cameron S. Bodine
@@ -15,6 +15,7 @@ tags:
 - side-scan sonar
 - Humminbird
 - aquatic substrate
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
