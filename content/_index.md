@@ -187,7 +187,7 @@ sections:
   #     view: compact
   #     columns: '2'
   - block: collection
-    id: featured
+    id: featured-projects
     content:
       title: Featured Projects
       filters:
