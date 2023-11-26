@@ -1,5 +1,5 @@
 ---
-title: 'Impacts of snow cover and extent on timing of wildfires'
+title: 'Impacts of snow cover and extent on timing of wildfires [Research Proposal]'
 authors:
 - Emma Reich
 - Jeralyn Poe
@@ -8,7 +8,7 @@ authors:
 date: '2021-12-09'
 publishDate: '2023-11-26'
 publication_types:
-- proposal
+- report
 summary: 'Research proposal developed for INF 599: Team-Based Research'
 abstract: 'Overview- Predicting wildfire behavior is essential to inform land management policy, community safety, and ecological modeling. However, predicting wildfire timing in a given area is based on localized assessments and not consistent. This study seeks to predict when wildfire season will begin over a given area based on snow cover extent. Study objectives are as follows -
 1) Increase understanding of interactions between snow cover and fire.  2) Develop models to predict fire occurrence based on existing trends.  
