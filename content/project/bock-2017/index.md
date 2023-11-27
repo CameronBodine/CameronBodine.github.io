@@ -8,6 +8,7 @@ date: '2017-01-01'
 publishDate: '2023-11-21T22:05:04.184297Z'
 publication_types:
 - report
+summary: 'Final project report for State Wildlife Grant (SWG) project conducted at Florida Fish and Wildlife Conservation Commission.'
 
 
 tags:
@@ -19,7 +20,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Bock et al. (2017)**]()'
+  caption: 'Image credit: **Bock et al. (2017)**'
   focal_point: ""
   preview_only: false
 
