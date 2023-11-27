@@ -7,7 +7,7 @@ authors:
 - Cameron Bodine
 date: '2021-12-09'
 publishDate: '2023-11-26'
-summary: 'Research proposal developed for INF 599: Team-Based Research at Northern Arizona University.'
+summary: 'Research proposal developed for INF 599: Team-Based Research final project at Northern Arizona University.'
 
 
 tags:
