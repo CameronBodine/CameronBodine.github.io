@@ -1,5 +1,5 @@
 ---
-title: 'Final Report: Flagging poor-quality scientific imagery in distributed memory'
+title: 'Flagging poor-quality scientific imagery in distributed memory'
 authors:
 - Cameron S. Bodine
 date: '2022-05-06'
