@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cameron Scott Bodine TEST
+title: Cameron Scott Bodine
 
 # # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
