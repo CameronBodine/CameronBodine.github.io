@@ -259,6 +259,17 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: featured-presentations
+    content:
+      title: Featured Presentations
+      filters:
+        folders:
+          - event
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     id: talks
     content:
       title: Recent Talks & Posters
