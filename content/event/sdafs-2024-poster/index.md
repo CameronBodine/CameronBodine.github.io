@@ -34,7 +34,7 @@ tags:
 - remote sensing
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: Bodine & Buscombe. (2024)'
