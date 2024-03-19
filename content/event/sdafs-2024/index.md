@@ -35,7 +35,7 @@ tags:
 - Gulf Sturgeon
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # image:
 #   caption: 'Image credit: Bodine et al. (2023)'
