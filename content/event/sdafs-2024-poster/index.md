@@ -4,7 +4,7 @@ title: Efficient and Reproducible Substrate Mapping with Recreation-grade Sonar 
 event: Southern Division American Fisheries Society Annual Meeting
 event_url: https://units.fisheries.org/tn/sdafs2024chattanooga/
 
-location: University of Colorado
+# location: University of Colorado
 address:
   # street: 450 Serra Mall
   city: Chattanooga
