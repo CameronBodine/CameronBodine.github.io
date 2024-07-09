@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Ecological Informatics
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northern Arizona University
-    url: https://ecoinfo.nau.edu/
+  - name: University of Delaware
+    url: https://sites.udel.edu/ceoe-art/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a desert dweller turned swamp creature. I develop software to help aquatic critters & habitats.
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Cameron Bodine is a Ph.D. Candidate in Ecological Informatics at Northern Arizona University. His research interests include mapping aquatic habitats, acoustics, hydrology, and open-source software and tool development.
+Cameron Bodine is a Postdoctoral Research at the University of Delaware. His research interests include mapping aquatic habitats, acoustics, hydrology, and open-source software and tool development.
 {style="text-align: justify;"}

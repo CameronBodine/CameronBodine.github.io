@@ -62,13 +62,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: University of Delaware
+          company_url: 'https://sites.udel.edu/ceoe-art/'
+          company_logo: 
+          location: Lewes, DE
+          date_start: '2024-06-01'
+          date_end: ''
+          description: |2-
+              * CSHEL - Coastal Sediments Hydrodynamics and Engineering Laboratory
         - title: Graduate Research Assistant
           company: Northern Arizona University
           company_url: 'https://nau.edu/'
           company_logo: nau-logo
           location: Flagstaff, AZ
           date_start: '2019-08-01'
-          date_end: ''
+          date_end: '2024-06-01'
           description: |2-
               * Develop open-source software [(PINGMapper)](https://cameronbodine.github.io/PINGMapper/) and reproducible workflows for processing big datasets from recreation-grade sonar instruments.
               * Train and evaluate deep learning models for substrate segmentation and classification from sonar imagery.
