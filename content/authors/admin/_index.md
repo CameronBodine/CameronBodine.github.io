@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Cameron Bodine is a Postdoctoral Research at the University of Delaware. His research interests include mapping aquatic habitats, acoustics, hydrology, and open-source software and tool development.
+I am a Research Scientist at the University of Delaware. My research interests include mapping aquatic habitats, acoustics, hydrology, and open-source software and tool development.
 {style="text-align: justify;"}
