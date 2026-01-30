@@ -63,76 +63,76 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
       - title: Research Scientist
-          company: University of Delaware
-          company_url: 'https://sites.udel.edu/ceoe-art/'
-          company_logo: 
-          location: Lewes, DE
-          date_start: '2025-12-01'
-          date_end: ''
-          description: |2-
-              * CSHEL - Coastal Sediments Hydrodynamics and Engineering Laboratory
-        - title: Postdoctoral Researcher
-          company: University of Delaware
-          company_url: 'https://sites.udel.edu/ceoe-art/'
-          company_logo: 
-          location: Lewes, DE
-          date_start: '2024-06-01'
-          date_end: '2025-11-30'
-          description: |2-
-              * CSHEL - Coastal Sediments Hydrodynamics and Engineering Laboratory
-        - title: Graduate Research Assistant
-          company: Northern Arizona University
-          company_url: 'https://nau.edu/'
-          company_logo: nau-logo
-          location: Flagstaff, AZ
-          date_start: '2019-08-01'
-          date_end: '2024-06-01'
-          description: |2-
-              * Develop open-source software [(PINGMapper)](https://cameronbodine.github.io/PINGMapper/) and reproducible workflows for processing big datasets from recreation-grade sonar instruments.
-              * Train and evaluate deep learning models for substrate segmentation and classification from sonar imagery.
-              * Identify suitable spawning reaches for the threatened Gulf Sturgeon in the Pearl and Pascagoula systems in Mississippi, USA.
-              * Author peer-reviewed manuscripts and present at national and regional conferences.
-              * Coordinate field campaigns with research partners.
-              * Provide bug patches and enhanced functionality based on end-users input.
-        - title: Biological Scientist II
-          company: Florida Fish and Wildlife Conservation Commission
-          company_url: 'https://myfwc.com/'
-          company_logo: fwc-logo
-          location: Tallahassee, FL
-          date_start: '2014-09-01'
-          date_end: '2019-05-01'
-          description: |2-
-              * Interpret fine-scale side-scan sonar imagery and classify river substrates.
-              * Plan and conduct riverine field campaigns involving operation of recreation-grade side-scan sonar, GPS, motorized/non-motorized vessels, and trailering.
-              * Design and maintain ArcGIS REST Services and maps for distribution of [river substrate data](https://myfwc.maps.arcgis.com/apps/dashboards/3a47214c65a24b4aa795d19a9dbef92f\#/403cef8a07254e6b8d9a0672aa0574d6).
-              * Develop Python scripts for batch processing, data management, and computations.
-              * Serve as agency point of contact for riverine side-scan sonar inquiries and requests.
-              * Prepare technical documents and present research at agency, regional, and national meetings.
-              * Formulate FWC boating policy as Watercraft Safety Advisory Board (WSAB) advisor.
-        - title: Research Associate
-          company: Florida Fish and Wildlife Conservation Commission
-          company_url: 'https://myfwc.com/'
-          company_logo: fwc-logo
-          location: Tallahassee, FL
-          date_start: '2014-01-01'
-          date_end: '2014-09-01'
-          description: |2-
-              * Provide technical assistance on [Cooperative Land Cover](https://myfwc.com/research/gis/wildlife/cooperative-land-cover/) project.
-              * Develop custom Python workflows for batch processing and management of big datasets.
-              * Utilize ArcGIS 10.x to classify medium resolution imagery to edit and update landcover datasets.
-              * Enforce vector topology and domains for quality assurance.
-        - title: Teaching Assistant
-          company: Czech University of Life Sciences
-          company_url: 'https://www.czu.cz/en'
-          company_logo: czu-logo
-          location: Prague, Czech Republic
-          date_start: '2013-02-01'
-          date_end: '2013-12-01'
-          description: |2-
-              * Courses: Geographic Information Systems I & II (Graduate Level).
-              * Co-develop course lectures with instructor for ESL students.
-              * Lead skill-based lab for students with varying technical experience.
-              * Respond to student questions and provide one-on-one tutoring.
+        company: University of Delaware
+        company_url: 'https://sites.udel.edu/ceoe-art/'
+        company_logo: ''
+        location: Lewes, DE
+        date_start: '2025-12-01'
+        date_end: ''
+        description: |2-
+          * CSHEL - Coastal Sediments Hydrodynamics and Engineering Laboratory
+      - title: Postdoctoral Researcher
+        company: University of Delaware
+        company_url: 'https://sites.udel.edu/ceoe-art/'
+        company_logo: ''
+        location: Lewes, DE
+        date_start: '2024-06-01'
+        date_end: '2025-11-30'
+        description: |2-
+          * CSHEL - Coastal Sediments Hydrodynamics and Engineering Laboratory
+      - title: Graduate Research Assistant
+        company: Northern Arizona University
+        company_url: 'https://nau.edu/'
+        company_logo: nau-logo
+        location: Flagstaff, AZ
+        date_start: '2019-08-01'
+        date_end: '2024-06-01'
+        description: |2-
+          * Develop open-source software [(PINGMapper)](https://cameronbodine.github.io/PINGMapper/) and reproducible workflows for processing big datasets from recreation-grade sonar instruments.
+          * Train and evaluate deep learning models for substrate segmentation and classification from sonar imagery.
+          * Identify suitable spawning reaches for the threatened Gulf Sturgeon in the Pearl and Pascagoula systems in Mississippi, USA.
+          * Author peer-reviewed manuscripts and present at national and regional conferences.
+          * Coordinate field campaigns with research partners.
+          * Provide bug patches and enhanced functionality based on end-users input.
+      - title: Biological Scientist II
+        company: Florida Fish and Wildlife Conservation Commission
+        company_url: 'https://myfwc.com/'
+        company_logo: fwc-logo
+        location: Tallahassee, FL
+        date_start: '2014-09-01'
+        date_end: '2019-05-01'
+        description: |2-
+          * Interpret fine-scale side-scan sonar imagery and classify river substrates.
+          * Plan and conduct riverine field campaigns involving operation of recreation-grade side-scan sonar, GPS, motorized/non-motorized vessels, and trailering.
+          * Design and maintain ArcGIS REST Services and maps for distribution of [river substrate data](https://myfwc.maps.arcgis.com/apps/dashboards/3a47214c65a24b4aa795d19a9dbef92f\#/403cef8a07254e6b8d9a0672aa0574d6).
+          * Develop Python scripts for batch processing, data management, and computations.
+          * Serve as agency point of contact for riverine side-scan sonar inquiries and requests.
+          * Prepare technical documents and present research at agency, regional, and national meetings.
+          * Formulate FWC boating policy as Watercraft Safety Advisory Board (WSAB) advisor.
+      - title: Research Associate
+        company: Florida Fish and Wildlife Conservation Commission
+        company_url: 'https://myfwc.com/'
+        company_logo: fwc-logo
+        location: Tallahassee, FL
+        date_start: '2014-01-01'
+        date_end: '2014-09-01'
+        description: |2-
+          * Provide technical assistance on [Cooperative Land Cover](https://myfwc.com/research/gis/wildlife/cooperative-land-cover/) project.
+          * Develop custom Python workflows for batch processing and management of big datasets.
+          * Utilize ArcGIS 10.x to classify medium resolution imagery to edit and update landcover datasets.
+          * Enforce vector topology and domains for quality assurance.
+      - title: Teaching Assistant
+        company: Czech University of Life Sciences
+        company_url: 'https://www.czu.cz/en'
+        company_logo: czu-logo
+        location: Prague, Czech Republic
+        date_start: '2013-02-01'
+        date_end: '2013-12-01'
+        description: |2-
+          * Courses: Geographic Information Systems I & II (Graduate Level).
+          * Co-develop course lectures with instructor for ESL students.
+          * Lead skill-based lab for students with varying technical experience.
+          * Respond to student questions and provide one-on-one tutoring.
     design:
       columns: '2'
   # - block: accomplishments
