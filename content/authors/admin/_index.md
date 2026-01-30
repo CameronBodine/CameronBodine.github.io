@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://sites.udel.edu/ceoe-art/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a desert dweller turned swamp creature. I develop software to help aquatic critters & habitats.
+bio: Helping aquatic systems thrive—one line of code at a time.
 
 # Interests to show in About widget
 interests:

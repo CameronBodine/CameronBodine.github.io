@@ -62,13 +62,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: Research Scientist
+          company: University of Delaware
+          company_url: 'https://sites.udel.edu/ceoe-art/'
+          company_logo: 
+          location: Lewes, DE
+          date_start: '2025-12-01'
+          date_end: ''
+          description: |2-
+              * CSHEL - Coastal Sediments Hydrodynamics and Engineering Laboratory
         - title: Postdoctoral Researcher
           company: University of Delaware
           company_url: 'https://sites.udel.edu/ceoe-art/'
           company_logo: 
           location: Lewes, DE
           date_start: '2024-06-01'
-          date_end: ''
+          date_end: '2025-11-30'
           description: |2-
               * CSHEL - Coastal Sediments Hydrodynamics and Engineering Laboratory
         - title: Graduate Research Assistant
